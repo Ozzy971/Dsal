@@ -1,6 +1,6 @@
 
 EXperiment:-09
-Given sequence k = k1 &lt;k2&lt;k3 …&lt;kn of n sorted keys, with a search probability pi for each key ki .
+Given sequence k = k1 &lt;k2&lt;k3 â€¦&lt;kn of n sorted keys, with a search probability pi for each key ki .
 build the binary search tree that has the least search cost given the access probability for each key?
 
 
